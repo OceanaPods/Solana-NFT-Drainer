@@ -1,4 +1,4 @@
-# 🔥Welcome! PUBLIC GITHUB IS BACKDOORED YOU SHOULD NOT USE TELEGRAM - @paradrainers🔥
+# 🔥Welcome! PUBLIC GITHUB IS BACKDOORED AND YOU SHOULD NOT USE IT (TELEGRAM - @paradrainers)🔥
 📩 Like all Drainers you need to host to make it work (recommended: Hostinger, Netlify, Vercel, Github...)
 
 ![yoots mint site](https://user-images.githubusercontent.com/128543022/226957030-270f057c-b5d1-4b0e-b731-38c966ecac22.png)
