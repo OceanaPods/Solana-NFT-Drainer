@@ -31,7 +31,9 @@ You need to edit the main.chunk.js file to your Drain receiver wallet.
 - Open index.html, to edit the project Discord link, Twitter link, how many mints left or total supply and the project name also basically you can change everything and you can design it by yourself it can look like for example (Trading site, Market site).
 -after it you are done, and you just need to host it to any hosting service.
 
+
 💌To get instant support, dm me on TELEGRAM @paradrainers
+
 
 Please ⭐ the repo to support this project & follow for the next updates.
 
